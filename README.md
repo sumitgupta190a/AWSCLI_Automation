@@ -22,8 +22,8 @@ This script automates the installation of AWS CLI version 2 on a Linux machine a
 
 ## Usage
 1. Clone the repository containing the script.
-2. Make the script executable: `chmod +x create_ec2_instance.sh`
-3. Run the script: `./create_ec2_instance.sh`
+2. Make the script executable: `chmod +x AWSCli_Automation.sh`
+3. Run the script: `./AWSCli_Automation.sh`
 
 The script will guide you through the installation of AWS CLI and the creation of an EC2 instance. Ensure that you have appropriate permissions and network connectivity to execute the script successfully.
 
